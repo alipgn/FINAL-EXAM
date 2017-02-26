@@ -25,7 +25,6 @@ Allo scadere del tempo, simbolicamente quando la notte finisce, tutto diventa ne
 <script src="sketch.js" type="text/javascript"></script>
 <input type="button" onclick="location.href='www.sample.com';" value="sample" style="font-size: 12px; border: 1pt ridge black" />
 
->In conclusione, vorremmo far notare che la repository caricata su GitHub contiene esclusivamente i files, se necessario intervenire sul codice chiediamo gentilmente di creare le cartelle "libraries" e "assets" per far funzionare correttamente la pagina.
-Vorremmo inoltre ringraziare i professori che ci hanno gentilmente e pazientemente seguito durante il semestre, siamo molto soddisfatte dei nostri piccoli-grandi passi nel mondo della programmazione 🙂
+> Vorremmo inoltre ringraziare i professori che ci hanno gentilmente e pazientemente seguito durante il semestre, siamo molto soddisfatte dei nostri piccoli-grandi passi nel mondo della programmazione 🙂
 
-#**_Chiara e Alice_**
+#####**_Chiara e Alice_**
